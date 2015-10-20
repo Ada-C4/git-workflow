@@ -1,18 +1,12 @@
-<<<<<<< HEAD
 Polypocket
-Historic Bridge Awareness Month
-Gluten Free Diet Awareness Month
-Drum Month
-Movember
-Drum Month
-Lung Cancer Awareness Month
-Home Care Month
-Good Nutrition Month
 America Recycles Month
-Movember
-Great American Smoke Out Month
-=======
 Aviation History Month
 Banana Pudding Lovers Month
 Drum Month
->>>>>>> origin/team_elephant
+Historic Bridge Awareness Month
+Home Care Month
+Gluten Free Diet Awareness Month
+Good Nutrition Month
+Great American Smoke Out Month
+Lung Cancer Awareness Month
+Movember
