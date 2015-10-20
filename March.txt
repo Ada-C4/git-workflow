@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 teamcool
 
@@ -34,3 +35,7 @@ Exotic Winter Fruit & Leeks and Green Onions Month
 Brain Injury Awareness Month
 Honor Society Awareness Month
 >>>>>>> origin/jlnrlh
+=======
+American Read Cross Month
+Brain Injury Awareness Month
+>>>>>>> origin/erg-mmr
