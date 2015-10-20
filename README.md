@@ -12,7 +12,7 @@ Each team will work in a Pair Programming style with one driver and one navigato
 $ cd class-exercises
 $ git clone git@github.com:Ada-C4/git-workflow.git
 $ cd git-workflow
-$ git branch <your-team-name> initial
+$ git branch <your-team-name> origin/initial
 $ git checkout <your-team-name>
 $ git push -u origin <your-team-name>
 ```
@@ -25,7 +25,7 @@ I will provide a list of all team branch names on the projector. Use `git fetch 
 
 Use the following commands to get setup for the merging stage:
 ```bash
-$ git branch complete initial
+$ git branch complete origin/initial
 $ git checkout complete
 $ echo <your-team-name> >> <your-month-file>
 $ git add <your-month-file>
