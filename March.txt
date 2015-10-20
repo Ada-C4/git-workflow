@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 teamcool
 
@@ -24,3 +25,6 @@ Dolphin Awareness Month
 Expanding Girls' Horizons in Science and Engineering Month
 Adopt a Rescued Guinea Pig Month
 >>>>>>> origin/ahth
+=======
+Colic Awareness Month
+>>>>>>> origin/hailog
