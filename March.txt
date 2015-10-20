@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 teamcool
 
@@ -13,3 +14,8 @@ American Red Cross Month
 Berries and Cherries Month
 Academy Awards Month
 >>>>>>> origin/team_elephant
+=======
+Honor Society Awareness Month
+Bell Peppers and Broccoli Month
+Dolphin Awareness Month
+>>>>>>> origin/lgra
