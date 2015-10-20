@@ -1,45 +1,32 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 teamcool
 
 Brain Injury Awareness Month
 
-=======
 Credit Education Month
 American Red Cross Month
->>>>>>> origin/galaxy
-=======
 Berries and Cherries Month
 Academy Awards Month
->>>>>>> origin/team_elephant
-=======
+
 Honor Society Awareness Month
 Bell Peppers and Broccoli Month
 Dolphin Awareness Month
->>>>>>> origin/lgra
-=======
+
 Expanding Girls' Horizons in Science and Engineering Month
 Adopt a Rescued Guinea Pig Month
->>>>>>> origin/ahth
-=======
+
 Colic Awareness Month
->>>>>>> origin/hailog
-=======
+
 Exotic Winter Fruit & Leeks and Green Onions Month
 Brain Injury Awareness Month
 Honor Society Awareness Month
->>>>>>> origin/jlnrlh
-=======
+
 American Read Cross Month
 Brain Injury Awareness Month
->>>>>>> origin/erg-mmr
-=======
+
 Employee Spirit Month
->>>>>>> origin/polypocket
+
+Colorectal Cancer Awareness Month
+Gender Equality Month
+Employee Spirit Month
+Hemophilia Month
