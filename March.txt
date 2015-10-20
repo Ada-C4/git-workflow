@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 teamcool
 
@@ -19,3 +20,7 @@ Honor Society Awareness Month
 Bell Peppers and Broccoli Month
 Dolphin Awareness Month
 >>>>>>> origin/lgra
+=======
+Expanding Girls' Horizons in Science and Engineering Month
+Adopt a Rescued Guinea Pig Month
+>>>>>>> origin/ahth
