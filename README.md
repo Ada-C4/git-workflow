@@ -38,7 +38,10 @@ $ git merge <team-branch-name>
 $ git reset head
 $ git add <your-month-file>
 $ git commit -m "Adding <team-branch-name> changes to <your-month-file>"
+$ git checkout -- .
 ```
+
+Repeat the above steps for each team's branch (including your own team's). Once all of the team's branches have been merged in for your month file, use the `git push -u origin complete` command to push your changes up to GitHub.
 
 This process will likely result in a merge conflict! That's the point. You will need to open the month file in Atom and determine how to retain all of the monthly observances. Key points:
 - There may be duplicates! I've added multiples of many observances to different teams' worksheets.
