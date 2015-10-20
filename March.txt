@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 teamcool
 
 Brain Injury Awareness Month
 
+=======
+Credit Education Month
+American Red Cross Month
+>>>>>>> origin/galaxy
