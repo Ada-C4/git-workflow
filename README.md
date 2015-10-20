@@ -28,6 +28,8 @@ Use the following commands to get setup for the merging stage:
 $ git branch complete initial
 $ git checkout complete
 $ echo <your-team-name> >> <your-month-file>
+$ git add <your-month-file>
+$ git commit -m "Add team name to <your-month-file>"
 ```
 
 Once your team is on the `complete` branch, you can start merging in every team branch's changes _for just your month file_. Use the following commands to do so:
