@@ -10,7 +10,7 @@ At the end of this merging process we should have converged on a singular final 
 Each team will work in a Pair Programming style with one driver and one navigator. Use the following commands to get your repository setup for the exercise:
 ```bash
 $ cd class-exercises
-$ git clone git@github.com:Ada-C4/git-workflow.git`
+$ git clone git@github.com:Ada-C4/git-workflow.git
 $ cd git-workflow
 $ git branch <your-team-name> initial
 $ git checkout <your-team-name>
