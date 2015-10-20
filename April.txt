@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 erg-mmr
 Counseling Awareness Month
 Alcohol Awareness Month
 Arab American Heritage Month
-=======
 Brussels Sprouts and Cabbage Month
 Genocide and Human Rights Awareness Month
 D.E.A.R. Drop Everything and Read Month
->>>>>>> origin/galaxy
-=======
 Fair Housing Month
 Grange Month
->>>>>>> origin/team_elephant
